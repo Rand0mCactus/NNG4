@@ -6,16 +6,6 @@ import GameServer.Commands
 -- are numbered 1,2,3,4... inside the level files.
 import Game.Levels.Tutorial
 import Game.Levels.Addition
-import Game.Levels.Multiplication
-import Game.Levels.Power
-import Game.Levels.Implication
-import Game.Levels.AdvAddition
-import Game.Levels.LessOrEqual
-import Game.Levels.AdvMultiplication
---import Game.Levels.EvenOdd
---import Game.Levels.Prime
---import Game.Levels.StrongInduction
---import Game.Levels.Hard
 import Game.Levels.Algorithm
 import I18n
 
