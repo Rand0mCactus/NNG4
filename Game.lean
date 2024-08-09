@@ -6,7 +6,6 @@ import GameServer.Commands
 -- are numbered 1,2,3,4... inside the level files.
 import Game.Levels.Tutorial
 import Game.Levels.Addition
-import Game.Levels.Algorithm
 import I18n
 
 -- Here's what we'll put on the title screen
@@ -22,7 +21,7 @@ that `2 + 2 = 4`. Next we'll prove that `x + y = y + x`.
 And at the end we'll see if we can prove Fermat's Last Theorem.
 We'll do this by solving levels of a computer puzzle game called Lean.
 
-# Read this.
+# DO NOT Read this.
 
 Learning how to use an interactive theorem prover takes time.
 Tests show that the people who get the most out of this game are
